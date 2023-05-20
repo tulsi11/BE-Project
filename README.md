@@ -7,3 +7,7 @@ Different pre-trained models are used in this work to identify different forms o
 The Raabin Leukemia dataset is used for the classification. All image samples are taken from the Raabin Leukemia dataset from patients who were referred to the medical laboratory, working with Takht-e Tavous Laboratory in Tehran, Iran. The imaging is done using a Zeiss microscope and an LG J3 smartphone camera. There is a total of 400 images of all four classes (ALL, AML, CLL, CML).
 
 GUI: Streamlit
+
+Application Screenshots:
+![image](https://github.com/tulsi11/BE-Project/assets/87757350/ebeca0e4-a258-43e0-9585-19f491974ebe)
+![image](https://github.com/tulsi11/BE-Project/assets/87757350/40dc6a40-7c1c-4e64-b0ec-64554138f80e)
