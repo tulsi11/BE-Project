@@ -9,5 +9,6 @@ The Raabin Leukemia dataset is used for the classification. All image samples ar
 GUI: Streamlit
 
 Application Screenshots:
-![image](https://github.com/tulsi11/BE-Project/assets/87757350/ebeca0e4-a258-43e0-9585-19f491974ebe)
-![image](https://github.com/tulsi11/BE-Project/assets/87757350/40dc6a40-7c1c-4e64-b0ec-64554138f80e)
+
+![ss1](https://github.com/tulsi11/BE-Project/assets/87757350/e349f740-a486-4dd7-8641-5794f2923b67)
+![ss2](https://github.com/tulsi11/BE-Project/assets/87757350/4202c05a-e350-4c6b-88bf-75841e091bd5)
